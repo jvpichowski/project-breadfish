@@ -1,0 +1,9 @@
+[submodule "cau-software-challenge-2015-submission"]
+	path = cau-software-challenge-2015-submission
+	url = https://github.com/jvpichowski/cau-software-challenge-2015-submission
+[submodule "marvellous-breadfish-ai"]
+	path = marvellous-breadfish-ai
+	url = https://github.com/jvpichowski/marvellous-breadfish-ai
+[submodule "hey-thanks-for-the-fish"]
+	path = hey-thanks-for-the-fish
+	url = https://github.com/jvpichowski/hey-thanks-for-the-fish
