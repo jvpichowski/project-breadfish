@@ -28,3 +28,4 @@ The project contains of the following three submodules:
 ## State
 
 At the moment, we are working on replicating the game server.
+You can get an idea about the progress by looking at the [project board](https://github.com/users/jvpichowski/projects/2).
